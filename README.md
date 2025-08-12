@@ -1,5 +1,37 @@
-# Vue 3 + Vite
+# Custom Tokenizer
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A tokenizer built in Vue.js — Whether you're preprocessing text for NLP tasks or just exploring how tokenization works, this tool gives you a clean interface for encoding and decoding character-level tokenization.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Features
+
+-   Character-level tokenization
+-   Handles unknown tokens with `<UNK>`
+-   Live demo deployed on Vercel
+
+---
+
+## Screenshots
+
+Here’s a quick look at the app in action:
+
+### 🔹 Home Page
+
+![Home Page](./public/screenshots/Home.png)
+
+### 🔹 Tokenization Encoding Demo
+
+![Tokenization Demo](./public/screenshots/Encoding.png)
+
+### 🔹 Tokenization Decoding Demo
+
+![Mobile View](./public/screenshots/Decoding.png)
+
+---
+
+## Live Demo
+
+Try it out now: [Tokenizer on Vercel](https://custom-tokenizer-steel.vercel.app/)
+
+---
